@@ -2,7 +2,7 @@
 ### AIM :
 To read the given data and perform Feature Generation process and save the data to a file.
 
-###n EXPLANATION :
+### EXPLANATION :
 
 Feature Generation (also known as feature construction, feature extraction or feature engineering) is the process of transforming features into new features that better relate to the target.
 
@@ -23,8 +23,8 @@ Save the data to the file
 
 ### PROGRAM :
 ```
-NAME : ARAVIND SAMY P
-REG NO : 212222230011
+NAME :HARINI V
+REG NO : 212222230044
 
 ```
 
